@@ -1,0 +1,63 @@
+/*****Global Styles*****/
+*{
+    margin: 0;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+    margin: 0 auto;
+}
+
+main{
+    text-align: center;
+
+}
+
+/*****Main Styles*****/
+
+.content-wrapper{
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    margin: 100px auto;
+    width: 350px;
+    border-radius: 3%;
+    -webkit-box-shadow: 1px 1px 24px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 24px -8px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 24px -8px rgba(0,0,0,0.75);
+}
+
+h1{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 24px;
+    margin: 5px auto 20px auto;
+}
+
+p{
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    padding-bottom: 30px;
+    margin: 0 auto;
+    width: 225px;
+}
+
+img{
+    border-radius: 3%; 
+    width:90%;
+    max-width: 100%;
+    margin: 15px auto 20px auto;
+}
+
+.qr-code-container{
+    margin: 0 auto;
+}
+
+.description{
+    text-align: center;
+    width: 400px;
+    margin: 5px auto;
+    width: 90%;
+}
+
+
